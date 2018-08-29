@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5c2e78f-236e-48e0-9d89-a57215db6bbf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,14 +26,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2548" />
+          <entry key="py" value="3117" />
           <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="2548" />
+          <entry key="Python" value="3117" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,11 +62,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+            <state relative-caret-position="459">
+              <caret line="149" column="26" lean-forward="true" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
               <folding>
-                <marker date="1535540791844" expanded="true" signature="38:45" ph="..." />
-                <marker date="1535540791844" expanded="true" signature="1012:1017" ph="..." />
+                <marker date="1535556394557" expanded="true" signature="52:59" ph="..." />
+                <marker date="1535556394557" expanded="true" signature="1051:1058" ph="..." />
+                <marker date="1535556394557" expanded="true" signature="1653:1697" ph="..." />
+                <marker date="1535556394557" expanded="true" signature="2415:2420" ph="..." />
               </folding>
             </state>
           </provider>
@@ -511,11 +512,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        <state relative-caret-position="459">
+          <caret line="149" column="26" lean-forward="true" selection-start-line="149" selection-start-column="26" selection-end-line="149" selection-end-column="26" />
           <folding>
-            <marker date="1535540791844" expanded="true" signature="38:45" ph="..." />
-            <marker date="1535540791844" expanded="true" signature="1012:1017" ph="..." />
+            <marker date="1535556394557" expanded="true" signature="52:59" ph="..." />
+            <marker date="1535556394557" expanded="true" signature="1051:1058" ph="..." />
+            <marker date="1535556394557" expanded="true" signature="1653:1697" ph="..." />
+            <marker date="1535556394557" expanded="true" signature="2415:2420" ph="..." />
           </folding>
         </state>
       </provider>
