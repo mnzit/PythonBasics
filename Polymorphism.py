@@ -1,3 +1,7 @@
+# DuckTyping
+# If it quacks like a duck, Swims like a duck, Walks like a duck then its a Duck
+
+
 # class PyCharm:
 #
 #     def execute(self):
