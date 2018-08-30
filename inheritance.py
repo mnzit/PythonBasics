@@ -114,45 +114,45 @@
 #         print("Feature 4 is progress")
 #
 # b1 = B()
-
-class A:
-    def __init__(self):
-        print("Print in A Init")
-
-    def feature1(self):
-        print("Feature 1 is progress")
-
-    def feature2(self):
-        print("Feature 2 is progress")
-
-    def newFeature(self):
-        print("And here is our new feature from A")
-
-class B:
-    def __init__(self):
-        print("Print in B Init")
-
-    def feature3(self):
-        print("Feature 3 is progress")
-
-    def feature4(self):
-        print("Feature 4 is progress")
-
-    def newFeature(self):
-        print("And here is our new feature from B")
-
-# Multiple Level inheritance has the feature of MRO (MEthod resoultion order)
-# Left to Right
-# Same Rule to Methods too
-
-class C(A, B):
-    def __init__(self):
-        super().__init__()
-        print("Print in C Init")
-
-    def feat(self):
-        super().feature2()
-
-c1 = C()
-c1.newFeature()
+#
+# class A:
+#     def __init__(self):
+#         print("Print in A Init")
+#
+#     def feature1(self):
+#         print("Feature 1 is progress")
+#
+#     def feature2(self):
+#         print("Feature 2 is progress")
+#
+#     def newFeature(self):
+#         print("And here is our new feature from A")
+#
+# class B:
+#     def __init__(self):
+#         print("Print in B Init")
+#
+#     def feature3(self):
+#         print("Feature 3 is progress")
+#
+#     def feature4(self):
+#         print("Feature 4 is progress")
+#
+#     def newFeature(self):
+#         print("And here is our new feature from B")
+#
+# # Multiple Level inheritance has the feature of MRO (MEthod resoultion order)
+# # Left to Right
+# # Same Rule to Methods too
+#
+# class C(A, B):
+#     def __init__(self):
+#         super().__init__()
+#         print("Print in C Init")
+#
+#     def feat(self):
+#         super().feature2()
+#
+# c1 = C()
+# c1.newFeature()
 
