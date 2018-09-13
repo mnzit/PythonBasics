@@ -87,3 +87,40 @@
 # print(s1)
 #
 # print(s1 % s2)
+
+
+# method overloading and method overriding
+
+# Method overloading not available in python
+
+
+# class Student:
+#     def __init__(self):
+#         print('This is the Student')
+#
+#     def sum(self, a = None, b = None, c = None):
+#         s = 0
+#         if a != None and b != None and c != None:
+#             s =a+b+c
+#         elif a != None and b != None:
+#             s = a+b
+#         else:
+#             s = a
+#         return s
+#
+# s1 = Student()
+# print (s1.sum(12))
+
+
+class A:
+    def show(self):
+        print("in A Show")
+
+class B(A):
+    def show(self):
+        print("in B Show")
+
+
+a1 = B()
+
+a1.show()
